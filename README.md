@@ -5,7 +5,7 @@ Hi! This is my <a href="https://stat545.stat.ubc.ca/#html">*STAT 545 - Explorato
 
 So far..
 
-- [x] Homework 1
+- [x] <a href="https://github.com/STAT545-UBC-hw-2019-20/stat545-hw-aylinmumcular/tree/master/Homework%201#html">Homework 1
 - [ ] ~~Homework 2~~ Stay tuned
 - [ ] ~~Homework 3~~ Stay tuned
 - [ ] ~~Homework 4~~ Stay tuned
@@ -20,3 +20,5 @@ So far..
 - I am currently working on my thesis which addresses the applications of blockchain technology in supply chain management. 
 
 ![](https://imgs.xkcd.com/comics/git_commit.png)
+
+
