@@ -5,11 +5,11 @@ Hi! This is my <a href="https://stat545.stat.ubc.ca/#html">*STAT 545 - Explorato
 
 So far..
 
-- [x] <a href="https://github.com/STAT545-UBC-hw-2019-20/stat545-hw-aylinmumcular/tree/master/Homework%201#html">Homework 1
-- [ ] ~~Homework 2~~ Stay tuned
-- [ ] ~~Homework 3~~ Stay tuned
-- [ ] ~~Homework 4~~ Stay tuned
-- [ ] ~~Homework 5~~ Stay tuned
+- [x] <a href="https://github.com/STAT545-UBC-hw-2019-20/stat545-hw-aylinmumcular/tree/master/Homework%201#html"> Homework 1
+- [ ] Homework 2 
+- [ ] Homework 3
+- [ ] Homework 4
+- [ ] Homework 5
 
 
 ## Who am I?
