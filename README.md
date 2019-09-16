@@ -1,7 +1,8 @@
 # Welcome to My Homework Repo :star2:
 
 Hi! This is my <a href="https://stat545.stat.ubc.ca/#html">*STAT 545 - Exploratory Data Analysis*</a> homework repository. You can find the assignments I will be working on throughout this course here. I will be updating this page whenever I will be doing a new assignment.
-at this link
+
+
 So far..
 
 - [x] Homework 1
