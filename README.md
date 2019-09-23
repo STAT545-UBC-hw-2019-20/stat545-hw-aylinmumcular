@@ -6,7 +6,7 @@ Hi! This is my <a href="https://stat545.stat.ubc.ca/#html">*STAT 545 - Explorato
 So far..
 
 - [x] <a href="https://github.com/STAT545-UBC-hw-2019-20/stat545-hw-aylinmumcular/tree/master/Homework%201#html"> Homework 1
-- <a href="https://github.com/STAT545-UBC-hw-2019-20/stat545-hw-aylinmumcular/blob/master/README.md#html"> Homework 2 
+- [x] <a href="https://github.com/STAT545-UBC-hw-2019-20/stat545-hw-aylinmumcular/tree/master/Homework%202"> Homework 2 
 - <a href="https://github.com/STAT545-UBC-hw-2019-20/stat545-hw-aylinmumcular/blob/master/README.md#html"> Homework 3
 - <a href="https://github.com/STAT545-UBC-hw-2019-20/stat545-hw-aylinmumcular/blob/master/README.md#html"> Homework 4
 - <a href="https://github.com/STAT545-UBC-hw-2019-20/stat545-hw-aylinmumcular/blob/master/README.md#html"> Homework 5
