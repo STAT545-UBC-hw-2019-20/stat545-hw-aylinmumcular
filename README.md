@@ -10,11 +10,9 @@ So far..
 - <a href="https://github.com/STAT545-UBC-hw-2019-20/stat545-hw-aylinmumcular/blob/master/README.md#html"> Homework 3
 
 
-:arrow_down:
+     :arrow_down:
 
-
-Please see the knitted HTML of the Homework 3 below.
-https://stat545-ubc-hw-2019-20.github.io/stat545-hw-aylinmumcular/Homework%203/HW3-Data-Analysis.html
+<a href="https://stat545-ubc-hw-2019-20.github.io/stat545-hw-aylinmumcular/Homework%203/HW3-Data-Analysis.html"> Knitted HTML output of the Homework 3
 
 
 ## Who am I?
