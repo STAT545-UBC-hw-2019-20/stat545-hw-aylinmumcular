@@ -14,7 +14,7 @@ So far..
 
 
 Please see the knitted HTML of the Homework 3 below.
-<a href="https://stat545-ubc-hw-2019-20.github.io/stat545-hw-aylinmumcular/Homework%203/HW3-Data-Analysis.html">
+https://stat545-ubc-hw-2019-20.github.io/stat545-hw-aylinmumcular/Homework%203/HW3-Data-Analysis.html
 
 
 ## Who am I?
