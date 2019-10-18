@@ -10,6 +10,7 @@ So far..
 - <a href="https://github.com/STAT545-UBC-hw-2019-20/stat545-hw-aylinmumcular/tree/master/Homework%203"> Homework 3
  :arrow_right:  <a href="https://stat545-ubc-hw-2019-20.github.io/stat545-hw-aylinmumcular/Homework%203/HW3-Data-Analysis.html"> Knitted HTML output of Homework 3
 - <a href="https://github.com/STAT545-UBC-hw-2019-20/stat545-hw-aylinmumcular/tree/master/Homework%204"> Homework 4
+- <a href="https://github.com/STAT545-UBC-hw-2019-20/stat545-hw-aylinmumcular/tree/master/Homework%205"> Homework 5
 
 ## Who am I?
 
